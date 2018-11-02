@@ -1,0 +1,52 @@
+title = "Forrest Brazeal"
+baseURL = "https://forrestbrazeal.com"
+tags = ["software", "science fiction", "blog"]
+languageCode = "en-US"
+config = "config.toml"
+theme = "osprey"
+canonifyURLS = true
+googleAnalytics = ""
+disqusShortname = "forrestbrazeal"
+disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+
+[permalinks]
+  post = "/:year/:month/:day/:title"
+
+[Params]
+    tagline = "Forrest Brazeal"
+    author = "Forrest Brazeal"
+    description = "Cloud architect, writer, speaker, and cartoonist"
+    logoBig = "/images/brazeal.jpg"
+    logoSmall = "/images/brazeal.jpg"
+    favicon = "favicon.ico"
+    opengraphImage = "/images/brazeal.jpg"
+    twitter = "forrestbrazeal"
+    linkedin = "forrestbrazeal"
+    github = "forrestbrazeal"
+    facebook = ""
+    email = "forrestbrazeal@gmail.com"
+    googleTagManager = ""
+    highlightJS = true
+    copyright = true
+    credit = true
+    customCSS = false
+    cacheBustCSS = false
+    cacheBustJS = false
+    ajaxFormspree = true
+
+[[menu.main]]
+    name = "About"
+    url  = "/#about"
+    weight = 1
+[[menu.main]]
+    name = "Blog"
+    url  = "/#blog"
+    weight = 2
+[[menu.main]]
+    name = "Bibliography"
+    url  = "/#bibliography"
+    weight = 3
+[[menu.main]]
+    name = "Contact"
+    url  = "/#contact"
+    weight = 4
