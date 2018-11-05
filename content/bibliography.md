@@ -5,7 +5,7 @@ draft: true
 ---
 
 ## Technical Writing
-Forrest's latest writings on cloud technologies and the emerging serverless space may be found at [A Cloud Guru](https://read.acloud.guru/@forrestbrazeal) or [Trek10](https://www.trek10.com/blog/).
+Forrest's latest blog posts on cloud technologies and the emerging serverless space appear at [A Cloud Guru](https://read.acloud.guru/@forrestbrazeal) or [Trek10](https://www.trek10.com/blog/).
 
 ## Fiction
 Stories currently free to read online are linked. 
@@ -16,10 +16,12 @@ Stories currently free to read online are linked.
 
 ["The Slide"](https://dailysciencefiction.com/science-fiction/other-worlds-sf/forrest-brazeal/the-slide) - *Daily Science Fiction*, 9/27/2018
 
-"The Honeypot" - forthcoming 11/9/2018
+"The Honeypot" - *Theme of Absence*, forthcoming 11/9/2018
 
 "Empathy Bee" - *Diabolical Plots*, forthcoming March 2019
 
 "The Mark" - forthcoming 2019
+
+"Russian Rhapsody" - *Abyss and Apex*, forthcoming 2020
 
 "World War 2.8.41 Release Notes" - forthcoming
