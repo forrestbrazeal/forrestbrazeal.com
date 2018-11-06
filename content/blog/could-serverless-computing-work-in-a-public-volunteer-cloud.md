@@ -1,6 +1,6 @@
 +++
 title = "Could Serverless Computing Work in a Public Volunteer Cloud?"
-date = 2018-05-26T18:23:17-05:00
+date = 2016-05-26T18:23:17-05:00
 description = ""
 draft = false
 +++
