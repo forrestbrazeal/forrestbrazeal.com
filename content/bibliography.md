@@ -1,7 +1,6 @@
 ---
 title: "Bibliography"
 date: 2018-11-02T16:03:54-04:00
-draft: true
 ---
 
 ## Technical Writing
