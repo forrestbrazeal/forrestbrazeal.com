@@ -2,7 +2,6 @@
 title = "How to Read 100 Books in a Year and Still Have a Life"
 date = 2017-12-03T15:15:51-04:00
 description = ""
-draft = true
 +++
 
 <em><a href="https://news.ycombinator.com/item?id=15845157">HackerNews discussion</a></em>
