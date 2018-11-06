@@ -10,7 +10,7 @@ disqusShortname = "forrestbrazeal-com"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [permalinks]
-  post = "/:year/:month/:day/:title"
+  blog = "/:year/:month/:day/:title"
 
 [Params]
     tagline = "Forrest Brazeal"
