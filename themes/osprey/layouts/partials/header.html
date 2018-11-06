@@ -77,6 +77,7 @@
   {{ end }}
 
   <link rel="stylesheet" href="{{ .Site.BaseURL }}/styles/{{ if .Site.Params.cacheBustCSS }}{{ index .Site.Data.cachedAssets "main.css" }}{{ else }}main.css{{ end }}" type="text/css">
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}/styles/{{ if .Site.Params.cacheBustCSS }}{{ index .Site.Data.cachedAssets "added.css" }}{{ else }}added.css{{ end }}" type="text/css">
 
   {{ if .Site.Params.customCSS }}
     {{ partial "css.html" . }}
