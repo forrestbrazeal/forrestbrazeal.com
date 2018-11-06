@@ -1,5 +1,5 @@
 +++
-title = "Taking Notes in Class Dont Use Your Laptop"
+title = "How I Got a CS Degree with Pen and Paper (And Why I'm Doing It Again)"
 date = 2015-09-16T18:15:21-05:00
 description = ""
 draft = false
