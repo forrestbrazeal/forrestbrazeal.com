@@ -1,5 +1,5 @@
 +++
-title = "AI, Automation, and the Merry-Go-Round of the Mind"
+title = "AI, automation, and the merry-go-round of the mind"
 date = 2016-06-23T18:21:36-05:00
 description = ""
 draft = false

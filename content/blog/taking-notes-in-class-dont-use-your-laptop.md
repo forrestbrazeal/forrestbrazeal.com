@@ -1,5 +1,5 @@
 +++
-title = "How I Got a CS Degree with Pen and Paper (And Why I'm Doing It Again)"
+title = "How I got a CS degree with pen and paper (and why I'm doing it again)"
 date = 2015-09-16T18:15:21-05:00
 description = ""
 draft = false

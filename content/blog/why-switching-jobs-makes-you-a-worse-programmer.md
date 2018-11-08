@@ -1,5 +1,5 @@
 +++
-title = "Why Switching Jobs Makes You a Worse Programmer"
+title = "Why switching jobs makes you a worse programmer"
 date = 2018-11-07T10:40:25-05:00
 description = ""
 draft = true

@@ -1,5 +1,5 @@
 +++
-title = "How to Read 100 Books in a Year and Still Have a Life"
+title = "How to read 100 books in a year and still have a life"
 date = 2017-12-03T15:15:51-04:00
 description = ""
 +++

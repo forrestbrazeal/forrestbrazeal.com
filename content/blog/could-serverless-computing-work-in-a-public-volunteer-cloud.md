@@ -1,5 +1,5 @@
 +++
-title = "Could Serverless Computing Work in a Public Volunteer Cloud?"
+title = "Could serverless computing work in a public volunteer cloud?"
 date = 2016-05-26T18:23:17-05:00
 description = ""
 draft = false

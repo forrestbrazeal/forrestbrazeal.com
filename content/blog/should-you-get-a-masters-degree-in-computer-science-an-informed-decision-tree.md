@@ -1,5 +1,5 @@
 +++
-title = "Should You Get a Masters Degree in Computer Science? An Informed Decision Tree"
+title = "Should you get a masters degree in computer science? An informed decision tree"
 date = 2017-01-03T15:33:25-04:00
 description = ""
 +++

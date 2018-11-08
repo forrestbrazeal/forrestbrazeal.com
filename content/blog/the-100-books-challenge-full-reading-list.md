@@ -1,5 +1,5 @@
 +++
-title = "The 100 Books Challenge: Full Reading List"
+title = "The 100 books challenge: full reading list"
 date = 2017-12-03T15:21:43-04:00
 description = ""
 draft = false

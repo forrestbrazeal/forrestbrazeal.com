@@ -1,5 +1,5 @@
 +++
-title = "OMSCS: a Working Professional's Guide to the 7K CS Masters Degree"
+title = "OMSCS: a working professional's guide to the 7K CS masters degree"
 date = 2017-05-08T15:30:48-04:00
 description = ""
 draft = false

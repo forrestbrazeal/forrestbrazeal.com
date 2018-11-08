@@ -1,5 +1,5 @@
 +++
-title = "Stop Telling Kids That Programming Is a Foreign Language"
+title = "Stop telling kids that programming is a foreign language"
 date = 2016-01-19T18:25:29-05:00
 description = ""
 draft = false

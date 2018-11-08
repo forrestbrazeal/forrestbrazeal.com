@@ -1,5 +1,5 @@
 +++
-title = "How I Learned to Stop Worrying and Love the Cubicle"
+title = "How I learned to stop worrying and love the cubicle"
 date = 2015-07-13T18:13:00-05:00
 description = ""
 draft = false
