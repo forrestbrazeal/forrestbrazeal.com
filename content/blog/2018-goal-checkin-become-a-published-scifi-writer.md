@@ -28,7 +28,7 @@ My goals, in descending order of likelihood, were as follows:
 
 1. Get at least 1000 words published at SFWA-qualifying markets (the standard for [SFWA associate member status](https://www.sfwa.org/about/join-us/sfwa-membership-requirements/#associate))
 
-1. Get at least three stories published, totaling more than 10,000 words, at SFWA-qualifying professional markets ([SFWA Active Member status](https://www.sfwa.org/about/join-us/sfwa-membership-requirements/#active), the standard for a legit "professional" science fiction writer)
+1. Get at least three stories published, totaling more than 10,000 words, at SFWA-qualifying professional markets ([SFWA Active Member status](https://www.sfwa.org/about/join-us/sfwa-membership-requirements/#active), my self-imposed standard for a legit "professional" science fiction writer)
 
 ## Results (through Nov. 8)
 
