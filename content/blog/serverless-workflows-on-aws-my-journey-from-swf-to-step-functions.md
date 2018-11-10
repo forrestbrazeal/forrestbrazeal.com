@@ -1,5 +1,5 @@
 +++
-title = "Serverless Workflows on AWS: My Journey From SWF to Step Functions"
+title = "Serverless workflows on AWS: my journey from SWF to Step Functions"
 date = 2016-12-29T18:07:39-05:00
 description = ""
 draft = false

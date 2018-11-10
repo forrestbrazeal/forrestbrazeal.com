@@ -35,7 +35,7 @@ My goals, in descending order of likelihood, were as follows:
 
 After many form rejections on several terrible stories, I sold my [first story](https://dailysciencefiction.com/science-fiction/biotech/forrest-brazeal/memory-foam) on March 23rd, 2018, to Daily Science Fiction (an SWFA pro market). At 1010 words, this sale actually crossed the first four goals off my list at once. 
 
-However, I continued to write and improve over the spring and summer of 2018, selling several more stories along the way, eventually totaling more than 16,000 words of fiction. Some publications have long wait times, but by the time "Empathy Bee" [is published](http://www.diabolicalplots.com/the-diabolical-plots-year-five-fiction-lineup/) in March 2019, I should have the credits needed for active SFWA membership status, my most insane stretch goal.
+However, I continued to write and improve over the spring and summer of 2018, selling several more stories along the way, eventually totaling more than 16,000 words of fiction. Some publications have long wait times, but by the time "Empathy Bee" [is published](http://www.diabolicalplots.com/the-diabolical-plots-year-five-fiction-lineup/) in March 2019, I should have the wordcount needed for active SFWA membership status, my most insane stretch goal.
 
 ### By the numbers
 
@@ -65,7 +65,7 @@ It turns out writing short stories that sell is really, really hard. It's hard t
 I'm grateful to have sold some stories this year, but my identity is not tied up in "being a writer". It can't be, because I have to...
 
 ### Embrace failure
-I learned to view rejections as a badge of honor, which is a helpful mental trick to keep from going insane after a few dozen forms. As I told Jason Bougger in an author interview over at Theme of Absence, rejections are like the good soreness you feel after working out -- it means you're growing.
+I learned to view rejections as a badge of honor, which is a helpful mental trick to keep from going insane after a few dozen forms. As I told Jason Bougger in an [author interview](http://www.themeofabsence.com/2018/11/author-interview-forrest-brazeal/) over at Theme of Absence, rejections are like the good soreness you feel after working out -- it means you're growing.
 
 ### Keep your feedback loop short
 Early on, when I was getting form rejections from big magazines with no accompanying feedback, I got really frustrated because I knew my work was obviously not up to par -- I just didn't know why. A submission to a smaller publication, Abyss and Apex (who I later ended up selling a different story to!) brought back a personalized rejection with a helpful piece of advice: try signing up for the [Online Writing Workshop](https://sff.onlinewritingworkshop.com/).
@@ -75,7 +75,9 @@ At the time I had never heard of writers' workshops and didn't really understand
 Later, once I had professional credits, I was able to join the wonderful [Codex](http://www.codexwriters.com/) writers' community, which has hugely expanded my horizons and understanding of the industry. The more I write, the less I trust myself to be a good judge of my work's quality, and the more I seek out and appreciate feedback from others.
 
 ### Write smart, not just hard
-Some writers recommend keeping insane writing regimens, cranking out thousands of words a day, saying it's the only way to improve. And I wrote a fair amount this year. But stepping back and getting feedback on my work was just as important. I had a music teacher who used to ask: "Did you practice ten hours, or just the same hour ten times?" When I took time to evaluate my work and deliberately build on it, I improved faster than just by vomiting words indiscriminately onto the page.
+Some writers recommend keeping insane writing regimens, cranking out thousands of words a day, saying it's the only way to improve. And I wrote a fair amount this year. But stepping back and getting feedback on my work was just as important. 
+
+I had a music teacher who used to ask: "Did you practice ten hours, or just the same hour ten times?" When I took time to evaluate my work and deliberately build on it, I improved faster than just by vomiting words indiscriminately onto the page.
 
 ### Keep reading good prose
 No, I didn't read a hundred books again this year. But I did try to keep my ear filled with good prose. For example, this summer I got on a southern realist kick: Flannery O'Connor, Eudora Welty, Carson McCullers. Studying how those writers crafted characters and situations helped me nail down a couple of southern-set stories that ended up selling. My science fiction writing improved more from reading good writers, period, than from reading science fiction.
