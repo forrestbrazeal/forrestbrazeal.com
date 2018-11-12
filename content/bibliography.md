@@ -15,7 +15,7 @@ Stories currently free to read online are linked.
 
 ["The Slide"](https://dailysciencefiction.com/science-fiction/other-worlds-sf/forrest-brazeal/the-slide) - *Daily Science Fiction*, 9/27/2018
 
-["The Honeypot"](http://www.themeofabsence.com/2018/11/the-honeypot-by-forrest-brazeal/) - *Theme of Absence*, forthcoming 11/9/2018
+["The Honeypot"](http://www.themeofabsence.com/2018/11/the-honeypot-by-forrest-brazeal/) - *Theme of Absence*, 11/9/2018
 
 "Empathy Bee" - *Diabolical Plots*, forthcoming March 2019
 
