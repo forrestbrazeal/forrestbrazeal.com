@@ -1,5 +1,5 @@
 title = "Forrest Brazeal"
-baseURL = "https://affectionate-sinoussi-691b17.netlify.com"
+baseURL = "https://forrestbrazeal.com"
 tags = ["software", "science fiction", "blog"]
 languageCode = "en-US"
 config = "config.toml"
