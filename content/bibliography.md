@@ -17,10 +17,12 @@ Stories currently free to read online are linked.
 
 ["The Honeypot"](http://www.themeofabsence.com/2018/11/the-honeypot-by-forrest-brazeal/) - *Theme of Absence*, 11/9/2018
 
+"World War 2.8.41 Release Notes" - *Daily Science Fiction*, forthcoming
+
+"Ghost Runners" - *Who Knocks*, forthcoming January 2019
+
 "Empathy Bee" - *Diabolical Plots*, forthcoming March 2019
 
 "The Mark" - forthcoming 2019
 
 "Russian Rhapsody" - *Abyss and Apex*, forthcoming 2020
-
-"World War 2.8.41 Release Notes" - forthcoming
