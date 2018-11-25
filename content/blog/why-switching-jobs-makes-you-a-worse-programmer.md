@@ -37,4 +37,10 @@ I'll say it again: **switching jobs or teams makes you, at least temporarily, a 
 
 ### New job, new you
 
-Obviously, I'm not saying you shouldn't switch jobs. Just remember that you can't expect to be the same person in the new cubicle. Your value is only partly based on your own knowledge and ingenuity. It's also wrapped up in the connections you've made inside your team: your ability to help others, their shared understanding of your strengths and weaknesses, and who knows what else. You will have to figure out new paths of communication in the new organization, build new backlogs of code references pertaining to your new projects, and find new mentors who can help you continue to grow. You will have to become a different programmer. There is no guarantee you will be a better one.
+Obviously, I'm not saying you shouldn't switch jobs. Just remember that you can't expect to be the same person in the new cubicle. 
+
+Your value is only partly based on your own knowledge and ingenuity. It's also wrapped up in the connections you've made inside your team: your ability to help others, their shared understanding of your strengths and weaknesses, and who knows what else. 
+
+You will have to figure out new paths of communication in the new organization, build new backlogs of code references pertaining to your new projects, and find new mentors who can help you continue to grow. 
+
+You will have to become a different programmer. There is no guarantee you will be a better one.
