@@ -29,7 +29,7 @@ To put it another way: if you visualize your entire career arc as one giant lear
 
 You don't know who on the new team can help debug Linux networking issues. You don't know who has already built the library you spent half a day kludging together. The time you spent becoming a rockstar at a technology nobody uses anymore, while it may be generally helpful for analogy's sake, does not automatically make you a rockstar at whatever technology the new company uses instead. 
 
-Consider what we might call the "shadow codebase". When you're roughing out a new piece of code, you'll often pull boilerplate or helper functions from other, similar projects your team has done in the past. Assuming you're not working on open source stuff, you'll lose access to a lot of that when you leave your job. Practically speaking, it's much like losing a very specific version of StackOverflow that was custom-built to solve your problems. You become a worse programmer until you can buid that shadow codebase back up.
+Consider what we might call the "shadow codebase". When you're roughing out a new piece of code, you'll often pull boilerplate or helper functions from other, similar projects your team has done in the past. Assuming you're not working on open source stuff, you'll lose access to a lot of that when you leave your job. Practically speaking, it's much like losing a very specific version of StackOverflow that was custom-built to solve your problems. You become a worse programmer until you can build that shadow codebase back up.
 
 Your title may say "senior", but effectively, at least for now, you're getting help from the junior devs.
 
