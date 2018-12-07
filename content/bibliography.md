@@ -21,6 +21,8 @@ Stories currently free to read online are linked.
 
 "Ghost Runners" - *Who Knocks*, forthcoming January 2019
 
+"Death's Head in B Dorm" - *Menacing Hedge*, forthcoming January 2019
+
 "Empathy Bee" - *Diabolical Plots*, forthcoming March 2019
 
 "The Mark" - forthcoming 2019
