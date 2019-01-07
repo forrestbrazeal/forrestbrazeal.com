@@ -17,7 +17,7 @@ Stories currently free to read online are linked.
 
 ["The Honeypot"](http://www.themeofabsence.com/2018/11/the-honeypot-by-forrest-brazeal/) - *Theme of Absence*, 11/9/2018
 
-"World War 2.8.41 Release Notes" - *Daily Science Fiction*, forthcoming
+["World War 2.8.41 Release Notes"](https://dailysciencefiction.com/science-fiction/future-societies/forrest-brazeal/world-war-2841-release-notes) - *Daily Science Fiction*, 1/7/2019
 
 "Ghost Runners" - *Who Knocks*, forthcoming January 2019
 
