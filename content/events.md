@@ -1,15 +1,20 @@
 ---
-title: "Events"
+title: "Events and Appearances"
 date: 2018-11-02T16:03:54-04:00
 ---
 
 Feel free to [reach out]({{< ref "#contact" >}}) if you would like Forrest to speak at your conference, user group, or other tech event.
 
+## 2019
+
+| **Date**       | **Location**                     | **Talk Title**                                                      | **Notes**                                                                                                                                                     |
+|------------|------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1/24/2019        | Triangle Serverless Meetup           | NoSQL Design Patterns for Serverless                   |  |
+
 ## 2018
 
 | **Date**       | **Location**                     | **Talk Title**                                                      | **Notes**                                                                                                                                                     |
 |------------|------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TBD        | Raleigh Serverless Meetup           | How To Rock at Serverless CI/CD on AWS                    |                                                                                                                                                           |
 | 2018/12/06 | The Serverless Show                        | Episode 7: re:Invent Recap                        | Interview with Protego's Hillel Solow ([watch or read](https://www.protego.io/the-serverless-show-reinvent-recap/))                                                                                           |
 | 2018/11/26-30 | AWS re:Invent, Las Vegas                        | Meet an Engineer: Forrest Brazeal                         | Interview with AWS's Randall Hunt ([video](https://www.youtube.com/watch?v=pa_rZChSC8s))                                                                                           |
 | 2018/11/14 | AWS Webinar                         | Serverless Workflows For The Enterprise                         | Co-presented with AWS's Chris Munns ([video](https://www.youtube.com/watch?v=T4RWwD5oHUc))                                                                                             |

@@ -7,7 +7,7 @@ date: 2018-11-02T16:03:54-04:00
 Forrest's latest blog posts on cloud technologies and the emerging serverless space appear at [A Cloud Guru](https://read.acloud.guru/@forrestbrazeal) or [Trek10](https://www.trek10.com/blog/).
 
 ## Fiction
-Stories currently free to read online are linked. 
+Stories currently free to read online are linked.
 
 ["Perchance to Dream"](https://dailysciencefiction.com/science-fiction/biotech/forrest-brazeal/perchance-to-dream-SF) - *Daily Science Fiction*, 7/12/2018
 
@@ -19,9 +19,9 @@ Stories currently free to read online are linked.
 
 ["World War 2.8.41 Release Notes"](https://dailysciencefiction.com/science-fiction/future-societies/forrest-brazeal/world-war-2841-release-notes) - *Daily Science Fiction*, 1/7/2019
 
-"Ghost Runners" - *Who Knocks*, forthcoming January 2019
+["Death's Head in B Dorm"](https://menacinghedge.com/winter2019/entry-brazeal.php) - *Menacing Hedge*, Winter 2019
 
-"Death's Head in B Dorm" - *Menacing Hedge*, forthcoming January 2019
+"Ghost Runners" - *Who Knocks*, forthcoming January 2019
 
 "Empathy Bee" - *Diabolical Plots*, forthcoming March 2019
 
