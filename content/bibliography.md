@@ -7,7 +7,7 @@ date: 2018-11-02T16:03:54-04:00
 Forrest's latest blog posts on cloud technologies and the emerging serverless space appear at [A Cloud Guru](https://read.acloud.guru/@forrestbrazeal) or [Trek10](https://www.trek10.com/blog/).
 
 ## Fiction
-Stories currently free to read online are linked.
+*Stories currently free to read online are linked.*
 
 ["Perchance to Dream"](https://dailysciencefiction.com/science-fiction/biotech/forrest-brazeal/perchance-to-dream-SF) - *Daily Science Fiction*, 7/12/2018
 

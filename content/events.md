@@ -9,7 +9,7 @@ Feel free to [reach out]({{< ref "#contact" >}}) if you would like Forrest to sp
 
 | **Date**       | **Location**                     | **Talk Title**                                                      | **Notes**                                                                                                                                                     |
 |------------|------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1/24/2019        | Triangle Serverless Meetup           | NoSQL Design Patterns for Serverless                   |  |
+| 2019/01/24        | Triangle Serverless Meetup           | NoSQL Design Patterns for Serverless                   |  |
 
 ## 2018
 
