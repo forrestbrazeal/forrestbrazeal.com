@@ -9,7 +9,9 @@ Feel free to [reach out]({{< ref "#contact" >}}) if you would like Forrest to sp
 
 | **Date**       | **Location**                     | **Talk Title**                                                      | **Notes**                                                                                                                                                     |
 |------------|------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2019/01/24        | Triangle Serverless Meetup           | NoSQL Design Patterns for Serverless                   |  |
+| 2019/03/20        | Leading Edge Forum Study Tour (Palo Alto, CA)           | The Cloud Natives Are Restless: Serverless, DevOps, and the Tribal War for Enterprise IT                   |  |
+| 2019/03/18        | UC Berkeley Serverless Working Group          | TBD     |  |
+| 2019/01/24        | Triangle Serverless Meetup  | NoSQL Design Patterns for Serverless         |  |
 
 ## 2018
 
