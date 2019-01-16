@@ -6,7 +6,9 @@ description = "I've been saying for awhile now that we're getting close to a cri
 
 *So, I'm trying a thing. A newsletter thing. I'm not sure if this will work, or how often I will do it. Probably not more frequently than once a month.*
 
-*In each issue of "Cloud Irregular", I'll try to provide a useful piece of commentary on some tech-related topic. After that I'll let you know about any new stuff I've published, or upcoming talks. Then I'll give you something extremely silly, just to cleanse your palate, and we'll be done. Sound good? If so, throw in your email at the bottom of this post.*
+*In each issue of "Cloud Irregular", I'll try to provide a useful piece of commentary on some tech-related topic. After that I'll let you know about any new stuff I've published, or upcoming talks. Then I'll give you something extremely silly, just to cleanse your palate, and we'll be done.* 
+
+*Sound good? If so, throw in your email at the bottom of this post.*
 
 ### The creeping IT apocalypse
 
