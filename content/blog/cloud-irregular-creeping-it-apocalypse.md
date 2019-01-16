@@ -4,6 +4,8 @@ date = 2019-01-16T09:27:38-05:00
 description = "I've been saying for awhile now that we're getting close to a crisis point in the IT world. The mid-tier IT worker is in imminent danger of being automated out of existence, and just like with the vanished factory jobs of the last 30 years, nobody wants to admit it's happening until it's too late."
 +++
 
+<img class="alignnone size-full wp-image-2812" src="/images/cloud-irregular.png" alt="cloud-irregular" />
+
 *So, I'm trying a thing. A newsletter thing. I'm not sure if this will work, or how often I will do it. Probably not more frequently than once a month.*
 
 *In each issue of "Cloud Irregular", I'll try to provide a useful piece of commentary on some tech-related topic. After that I'll let you know about any new stuff I've published, or upcoming talks. Then I'll give you something extremely silly, just to cleanse your palate, and we'll be done.* 
