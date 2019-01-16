@@ -6,11 +6,11 @@ description = "I've been saying for awhile now that we're getting close to a cri
 
 *So, I'm trying a thing. A newsletter thing. I'm not sure if this will work, or how often I will do it. Probably not more frequently than once a month.*
 
-*I'll try to provide a useful piece of commentary on some tech-related topic. After that I'll let you know about any new stuff I've published, or upcoming talks. Then I'll give you something extremely silly, just to cleanse your palate, and we'll be done. Sound good?*
+*In each issue of "Cloud Irregular", I'll try to provide a useful piece of commentary on some tech-related topic. After that I'll let you know about any new stuff I've published, or upcoming talks. Then I'll give you something extremely silly, just to cleanse your palate, and we'll be done. Sound good? If so, throw in your email at the bottom of this post.*
 
 ### The creeping IT apocalypse
 
-So apparently [AWS is working on a clandestine low-code/no-code product codenamed "AWS for Everyone"](https://www.geekwire.com/2019/aws-everyone-new-clues-emerge-amazons-secretive-low-code-no-code-project/). It's useless to speculate on this without concrete info (thought that didn't stop Geekwire), but hopefully this isn't just another half-baked attempt to simplify the process of application development past all recognition. An awful lot of smart people have been trying to make graphical interfaces to help non-programmers code since - what, pre-Visual Basic? - and those projects always seem to get bogged down by a) fundamental limitations of usefulness or b) horrifying snarls of technical debt, or c) both of the above.
+So apparently [AWS is working on a clandestine low-code/no-code product codenamed "AWS for Everyone"](https://www.geekwire.com/2019/aws-everyone-new-clues-emerge-amazons-secretive-low-code-no-code-project/). It's useless to speculate on this without concrete info (though that didn't stop Geekwire), but hopefully this isn't just another half-baked attempt to simplify the process of application development past all recognition. An awful lot of smart people have been trying to make graphical interfaces to help non-programmers code since - what, pre-Visual Basic? - and those projects always seem to get bogged down by a) fundamental limitations of usefulness or b) horrifying snarls of technical debt, or c) both of the above.
 
 No, the real trend to watch here is not that the cloud providers are making it easier for non-technical people to code (although they are), but that they are *straight-up reducing the number of people required to deliver technical solutions.*
 
