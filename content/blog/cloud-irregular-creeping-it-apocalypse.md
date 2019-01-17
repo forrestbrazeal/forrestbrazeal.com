@@ -12,6 +12,8 @@ description = "I've been saying for awhile now that we're getting close to a cri
 
 *Sound good? If so, throw in your email at the bottom of this post.*
 
+[HackerNews comments](https://news.ycombinator.com/item?id=18930781)
+
 ### The creeping IT apocalypse
 
 So apparently [AWS is working on a clandestine low-code/no-code product codenamed "AWS for Everyone"](https://www.geekwire.com/2019/aws-everyone-new-clues-emerge-amazons-secretive-low-code-no-code-project/). It's useless to speculate on this without concrete info (though that didn't stop Geekwire), but hopefully this isn't just another half-baked attempt to simplify the process of application development past all recognition. An awful lot of smart people have been trying to make graphical interfaces to help non-programmers code since - what, pre-Visual Basic? - and those projects always seem to get bogged down by a) fundamental limitations of usefulness or b) horrifying snarls of technical debt, or c) both of the above.
