@@ -21,10 +21,12 @@ Forrest's latest blog posts on cloud technologies and the emerging serverless sp
 
 ["Death's Head in B Dorm"](https://menacinghedge.com/winter2019/entry-brazeal.php) - *Menacing Hedge*, Winter 2019
 
-"Ghost Runners" - *Who Knocks*, forthcoming January 2019
+"Ghost Runners" - *Who Knocks*, Issue 1
 
 "Empathy Bee" - *Diabolical Plots*, forthcoming March 2019
 
 "The Mark" - forthcoming 2019
 
 "Russian Rhapsody" - *Abyss and Apex*, forthcoming 2020
+
+"The Girl of the Golden City" - *StarShipSofa*, forthcoming
