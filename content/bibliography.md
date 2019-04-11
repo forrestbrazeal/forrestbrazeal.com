@@ -25,8 +25,8 @@ Forrest's latest blog posts on cloud technologies and the emerging serverless sp
 
 "Empathy Bee" - *Diabolical Plots*, forthcoming March 2019
 
-"The Mark" - forthcoming 2019
-
-"Russian Rhapsody" - *Abyss and Apex*, forthcoming 2020
+"The Mark" - *Mysterion*, forthcoming June 2019
 
 "The Girl of the Golden City" - *StarShipSofa*, forthcoming
+
+"Russian Rhapsody" - *Abyss and Apex*, forthcoming 2020
