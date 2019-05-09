@@ -23,10 +23,12 @@ Forrest's latest blog posts on cloud technologies and the emerging serverless sp
 
 "Ghost Runners" - *Who Knocks*, Issue 1
 
-"Empathy Bee" - *Diabolical Plots*, forthcoming March 2019
+["The Girl of the Golden City"](http://www.starshipsofa.com/blog/2019/05/08/starshipsofa-no-587-forrest-brazeal/) - *StarShipSofa*, May 2019
 
 "The Mark" - *Mysterion*, forthcoming June 2019
 
-"The Girl of the Golden City" - *StarShipSofa*, forthcoming
+"Empathy Bee" - *Diabolical Plots*, forthcoming September 2019 (also in [Year 5 anthology](https://www.amazon.com/Diabolical-Plots-Year-FIve-Anthology-ebook/dp/B07NNJWSPC))
 
 "Russian Rhapsody" - *Abyss and Apex*, forthcoming 2020
+
+"Under The Hat" - *Constellary Tales*, forthcoming
