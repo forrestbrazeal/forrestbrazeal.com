@@ -9,6 +9,7 @@ Feel free to [reach out]({{< ref "#contact" >}}) if you would like Forrest to sp
 
 | **Date**       | **Location**                     | **Talk Title**                                                      | **Notes**                                                                                                                                                     |
 |------------|------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2019/10/07-09       | ServerlessConf NYC        | Various (conference co-chair)                  |  |
 | 2019/07/17       | DashCon NYC         | When Bad Architectures Happen To Good People: Migrating to Serverless in a Legacy World                  |  |
 | 2019/05/30        | AWS Chicago Summit          | Souped-Up CI/CD on AWS                   |  |
 | 2019/03/20        | Leading Edge Forum Study Tour (Palo Alto, CA)           | The Cloud Natives Are Restless: Serverless, DevOps, and the Tribal War for Enterprise IT                   |  |

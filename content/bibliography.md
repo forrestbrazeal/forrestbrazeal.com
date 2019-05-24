@@ -21,14 +21,14 @@ Forrest's latest blog posts on cloud technologies and the emerging serverless sp
 
 ["Death's Head in B Dorm"](https://menacinghedge.com/winter2019/entry-brazeal.php) - *Menacing Hedge*, Winter 2019
 
-"Ghost Runners" - *Who Knocks*, Issue 1
+"Ghost Runners" - *Who Knocks* Issue 1, Jan 2019
 
 ["The Girl of the Golden City"](http://www.starshipsofa.com/blog/2019/05/08/starshipsofa-no-587-forrest-brazeal/) - *StarShipSofa*, May 2019
 
-"The Mark" - *Mysterion*, forthcoming June 2019
+["Under The Hat"](http://constellary.com/blog-post/fiction-under-the-hat/) - *Constellary Tales* Issue 3, May 2019
+
+"The Mark" - *Mysterion*, forthcoming June 24, 2019
 
 "Empathy Bee" - *Diabolical Plots*, forthcoming September 2019 (also in [Year 5 anthology](https://www.amazon.com/Diabolical-Plots-Year-FIve-Anthology-ebook/dp/B07NNJWSPC))
 
 "Russian Rhapsody" - *Abyss and Apex*, forthcoming 2020
-
-"Under The Hat" - *Constellary Tales*, forthcoming
