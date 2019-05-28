@@ -1,7 +1,7 @@
 +++
 title = "Cloud Irregular: Does Anyone Know How Your System Works?"
 date = 2019-05-28T09:27:38-05:00
-description = How do you get into a position where not a single person at your company, even the "architects", can adequately describe your own software?
+description = "How do you get into a position where not a single person at your company, even the architects, can adequately describe your own software?"
 draft = false
 +++
 
