@@ -27,7 +27,7 @@ Forrest's latest blog posts on cloud technologies and the emerging serverless sp
 
 ["Under The Hat"](http://constellary.com/blog-post/fiction-under-the-hat/) - *Constellary Tales* Issue 3, May 2019
 
-"The Mark" - *Mysterion*, forthcoming June 24, 2019
+["The Mark"](https://www.mysteriononline.com/2019/06/the-mark.html) - *Mysterion*,June 2019
 
 "Empathy Bee" - *Diabolical Plots*, forthcoming September 2019 (also in [Year 5 anthology](https://www.amazon.com/Diabolical-Plots-Year-FIve-Anthology-ebook/dp/B07NNJWSPC))
 
