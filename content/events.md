@@ -10,7 +10,9 @@ Feel free to [reach out]({{< ref "#contact" >}}) if you would like Forrest to sp
 | **Date**       | **Location**                     | **Talk Title**                                                      | **Notes**                                                                                                                                                     |
 |------------|------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2019/10/07-09       | ServerlessConf NYC        | Various (conference co-chair)                  |  |
-| 2019/07/17       | DashCon NYC         | When Bad Architectures Happen To Good People: Migrating to Serverless in a Legacy World                  |  |
+| 2019/07/17       | AWS Twitch        | Serverless Hero Challenge                  | [video](https://www.twitch.tv/events/lcZg3S89QOGTjzAuap1OUw) |
+| 2019/07/17       | DashCon NYC         | When Bad Architectures Happen To Good People: Migrating to Serverless in a Legacy World                  | [video](https://www.youtube.com/watch?v=tzHjlJbHi3s) |
+| 2019/07/09       | Webinar with AWS and Epsagon       | Modern Apps on AWS: Challenges and Solutions                 | [video](https://www.youtube.com/watch?v=M215idpHA6E) |
 | 2019/05/30        | AWS Chicago Summit          | Souped-Up CI/CD on AWS                   |  |
 | 2019/03/20        | Leading Edge Forum Study Tour (Palo Alto, CA)           | The Cloud Natives Are Restless: Serverless, DevOps, and the Tribal War for Enterprise IT                   |  |
 | 2019/03/18        | UC Berkeley RISELab          | Serverless as Industry Paradigm     |  |
