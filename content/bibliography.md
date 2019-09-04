@@ -29,6 +29,6 @@ Forrest's latest blog posts on cloud technologies and the emerging serverless sp
 
 ["The Mark"](https://www.mysteriononline.com/2019/06/the-mark.html) - *Mysterion*,June 2019
 
-"Empathy Bee" - *Diabolical Plots*, forthcoming September 2019 (also in [Year 5 anthology](https://www.amazon.com/Diabolical-Plots-Year-FIve-Anthology-ebook/dp/B07NNJWSPC))
+["Empathy Bee"](https://www.diabolicalplots.com/dp-fiction-55a-empathy-bee-by-forrest-brazeal/) - *Diabolical Plots*, September 2019 (also in [Year 5 anthology](https://www.amazon.com/Diabolical-Plots-Year-FIve-Anthology-ebook/dp/B07NNJWSPC))
 
 "Russian Rhapsody" - *Abyss and Apex*, forthcoming 2020
