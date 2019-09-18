@@ -20,6 +20,7 @@ Forrest's latest blog posts on cloud technologies and the emerging serverless sp
 ["World War 2.8.41 Release Notes"](https://dailysciencefiction.com/science-fiction/future-societies/forrest-brazeal/world-war-2841-release-notes) - *Daily Science Fiction*, 1/7/2019
 
 ["Death's Head in B Dorm"](https://menacinghedge.com/winter2019/entry-brazeal.php) - *Menacing Hedge*, Winter 2019
+  
   - Nominated: Best of the Net 2019
 
 "Ghost Runners" - *Who Knocks* Issue 1, Jan 2019
@@ -27,10 +28,13 @@ Forrest's latest blog posts on cloud technologies and the emerging serverless sp
 ["The Girl of the Golden City"](http://www.starshipsofa.com/blog/2019/05/08/starshipsofa-no-587-forrest-brazeal/) - *StarShipSofa*, May 2019
 
 ["Under The Hat"](http://constellary.com/blog-post/fiction-under-the-hat/) - *Constellary Tales* Issue 3, May 2019
+  
   - Reviewed: [Tangent Online](https://www.tangentonline.com/e-market-quarterly-reviewsmenu-267/302-constellary-tales/4184-constellary-tales-3-may-2019)
 
 ["The Mark"](https://www.mysteriononline.com/2019/06/the-mark.html) - *Mysterion*,June 2019
 
-["Empathy Bee"](https://www.diabolicalplots.com/dp-fiction-55a-empathy-bee-by-forrest-brazeal/) - *Diabolical Plots*, September 2019 (also in [Year 5 anthology](https://www.amazon.com/Diabolical-Plots-Year-FIve-Anthology-ebook/dp/B07NNJWSPC))
+["Empathy Bee"](https://www.diabolicalplots.com/dp-fiction-55a-empathy-bee-by-forrest-brazeal/) - *Diabolical Plots*, September 2019 
+
+  - Reprinted in [DP Year 5 anthology](https://www.amazon.com/Diabolical-Plots-Year-FIve-Anthology-ebook/dp/B07NNJWSPC))
 
 "Russian Rhapsody" - *Abyss and Apex*, forthcoming 2020
