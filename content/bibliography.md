@@ -20,12 +20,14 @@ Forrest's latest blog posts on cloud technologies and the emerging serverless sp
 ["World War 2.8.41 Release Notes"](https://dailysciencefiction.com/science-fiction/future-societies/forrest-brazeal/world-war-2841-release-notes) - *Daily Science Fiction*, 1/7/2019
 
 ["Death's Head in B Dorm"](https://menacinghedge.com/winter2019/entry-brazeal.php) - *Menacing Hedge*, Winter 2019
+  - Nominated: Best of the Net 2019
 
 "Ghost Runners" - *Who Knocks* Issue 1, Jan 2019
 
 ["The Girl of the Golden City"](http://www.starshipsofa.com/blog/2019/05/08/starshipsofa-no-587-forrest-brazeal/) - *StarShipSofa*, May 2019
 
 ["Under The Hat"](http://constellary.com/blog-post/fiction-under-the-hat/) - *Constellary Tales* Issue 3, May 2019
+  - Reviewed: [Tangent Online](https://www.tangentonline.com/e-market-quarterly-reviewsmenu-267/302-constellary-tales/4184-constellary-tales-3-may-2019)
 
 ["The Mark"](https://www.mysteriononline.com/2019/06/the-mark.html) - *Mysterion*,June 2019
 
