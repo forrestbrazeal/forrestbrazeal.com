@@ -36,5 +36,6 @@ Forrest's latest blog posts on cloud technologies and the emerging serverless sp
 ["Empathy Bee"](https://www.diabolicalplots.com/dp-fiction-55a-empathy-bee-by-forrest-brazeal/) - *Diabolical Plots*, September 2019 
 
   - Reprinted in [DP Year 5 anthology](https://www.amazon.com/Diabolical-Plots-Year-FIve-Anthology-ebook/dp/B07NNJWSPC)
+  - Reviewed: [Tangent Online](https://www.tangentonline.com/e-market-monthly-reviewsmenu-265/279-diabolical-plots/4284-diabolical-plots-55-september-2019)
 
 "Russian Rhapsody" - *Abyss and Apex*, forthcoming 2020
