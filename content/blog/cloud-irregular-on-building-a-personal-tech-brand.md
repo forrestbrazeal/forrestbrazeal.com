@@ -15,7 +15,7 @@ opengraphImage = "/images/cloud-irregular.png"
 
 Occasionally somebody in the tech world reaches out to me and says "You seem to have a good personal brand, how did you do that?"
 
-This question seems to take as an unexamined premise that having a “personal brand” is a good thing, or worth striving for, which I don’t necessarily concede. After all, you can have a lovely career in tech without devolving into your own PR flack. If what you want is to earn respect from your peers, the best way to do that is probably to build something cool, not to get better at blowing your own horn. 
+This question seems to take as an unexamined premise that having a “personal brand” — whatever that is — is a good thing, or worth striving for, which I don’t necessarily concede. After all, you can have a lovely career in tech without devolving into your own PR flack. If what you want is to earn respect from your peers, the best way to do that is probably to build something cool, not to get better at blowing your own horn. 
 
 Pressed on the subject, most people agree with this. But the question keeps coming because the pervasive, underlying belief remains: *my career would be better if I spoke at more conferences, wrote more blog posts, had better name recognition. Is that realistic for me?*
 
