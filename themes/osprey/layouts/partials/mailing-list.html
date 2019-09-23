@@ -12,7 +12,12 @@
         <div class="col-xs-12 middle-xs">
           {{ with $.Site.GetPage "page" "mailing-list.md" }}
             {{ .Content }}
+            <center>
+                <p>
+                    If you enjoy my articles, comics and stories, why not sign up for the mailing list?
+                </p>
             <iframe width="480" height="320" src="https://cloudirregular.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+          </center>
           {{ end }}
         </div>
       </div>
