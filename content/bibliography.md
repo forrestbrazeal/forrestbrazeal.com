@@ -37,5 +37,6 @@ Forrest's latest blog posts on cloud technologies and the emerging serverless sp
 
   - Reprinted in [DP Year 5 anthology](https://www.amazon.com/Diabolical-Plots-Year-FIve-Anthology-ebook/dp/B07NNJWSPC)
   - Reviewed: [Tangent Online](https://www.tangentonline.com/e-market-monthly-reviewsmenu-265/279-diabolical-plots/4284-diabolical-plots-55-september-2019)
+  - Reviewed: [Quick Sip Reviews](https://quicksipreviews.blogspot.com/2019/09/quick-sips-diabolical-plots-55.html)
 
 "Russian Rhapsody" - *Abyss and Apex*, forthcoming 2020
