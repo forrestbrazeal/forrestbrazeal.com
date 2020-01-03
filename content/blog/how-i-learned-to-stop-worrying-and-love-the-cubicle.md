@@ -2,7 +2,7 @@
 title = "How I learned to stop worrying and love the cubicle"
 date = 2015-07-13T18:13:00-05:00
 description = ""
-draft = false
+og_image = "forrest.png"
 +++
 
 <a href="https://news.ycombinator.com/item?id=10844506">HackerNews Discussion</a>

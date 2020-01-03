@@ -3,6 +3,7 @@ title = "Stop telling kids that programming is a foreign language"
 date = 2016-01-19T18:25:29-05:00
 description = ""
 draft = false
+og_image = "forrest.png"
 +++
 
 Do you think computer programming should count as a foreign language credit in US schools? <a href="https://www.washingtonpost.com/blogs/govbeat/wp/2014/01/28/states-could-count-computer-programming-as-foreign-language-skill/">New Mexico does</a>. So do legislators in  <a href="https://www.middleburyinteractive.com/blog/coding-v-foreign-languages-do-we-really-have-choose">Kentucky</a> and <a href="http://arstechnica.com/tech-policy/2015/02/washington-lawmakers-want-computer-science-to-count-as-foreign-language/">Washington</a> and several other states, with more on the horizon as fears about US students' STEM deficiencies increase.

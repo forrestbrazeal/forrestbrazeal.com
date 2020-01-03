@@ -3,6 +3,7 @@ title = "The 100 books challenge: full reading list"
 date = 2017-12-03T15:21:43-04:00
 description = ""
 draft = false
+og_image = "forrest.png"
 +++
 
 <em>In 2017, I set a goal of reading 100 books. I made up the reading list as I went along, using friends, the internet, and random trips through Goodwill as inspiration. Here is the full list. Links go to Amazon. Books that I especially recommend have a star (★) by the title.</em>

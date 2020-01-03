@@ -2,6 +2,7 @@
 title = "Cloud Irregular: Amazon won't spin off AWS, and that's too bad for AWS"
 date = 2019-07-24T09:27:38-05:00
 description = "Many customers are not using AWS the way it's designed to be used, as a holistic, deeply integrated platform, and the looming shadow of Amazon is the reason why."
+og_image = "cloud-irregular.png"
 +++
 
 <img class="alignnone size-full wp-image-2812" src="/images/cloud-irregular.png" alt="cloud-irregular" />

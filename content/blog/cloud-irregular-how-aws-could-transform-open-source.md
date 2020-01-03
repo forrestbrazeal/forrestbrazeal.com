@@ -2,6 +2,7 @@
 title = "Hey AWS - it's time to pay OSS developers"
 date = 2019-10-23T09:27:38-05:00
 description = "The Serverless Application Repository is *so close* to being a game-changer."
+og_image = "cloud-irregular.png"
 +++
 
 <img class="alignnone size-full wp-image-2812" src="/images/cloud-irregular.png" alt="cloud-irregular" />

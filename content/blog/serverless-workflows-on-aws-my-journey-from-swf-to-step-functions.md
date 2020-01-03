@@ -2,7 +2,7 @@
 title = "Serverless workflows on AWS: my journey from SWF to Step Functions"
 date = 2016-12-29T18:07:39-05:00
 description = ""
-draft = false
+og_image = "forrest.png"
 +++
 
 <em>AWS Lambda functions can only run for a maximum of five minutes. This must be distinctly understood, or nothing wonderful can come of the story you are about to hear.</em>

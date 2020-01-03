@@ -2,7 +2,7 @@
 title = "Cloud Irregular: On building a personal brand in tech"
 date = 2019-09-22T09:27:38-05:00
 description = "If you really want to do it, here's how."
-opengraphImage = "/images/cloud-irregular.png"
+og_image = "cloud-irregular.png"
 +++
 
 <img class="alignnone size-full wp-image-2812" src="/images/cloud-irregular.png" alt="cloud-irregular" />

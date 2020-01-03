@@ -3,6 +3,7 @@ title = "Why switching jobs makes you a worse programmer"
 date = 2018-11-24T10:40:25-05:00
 description = "Your value is only partly based on your own knowledge and ingenuity. It's also wrapped up in the connections you've made inside your team: your ability to help others, their shared understanding of your strengths and weaknesses, and who knows what else."
 draft = false
+og_image = "forrest.png"
 +++
 
 Suppose you are interviewing for a software engineering job. The interviewer does that annoying thing where they ask you programming trivia questions, like how to write a ternary statement in some language you haven't used in awhile.

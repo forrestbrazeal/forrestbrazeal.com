@@ -3,6 +3,7 @@ title = "How I got a CS degree with pen and paper (and why I'm doing it again)"
 date = 2015-09-16T18:15:21-05:00
 description = ""
 draft = false
+og_image = "forrest.png"
 +++
 
 <a href="https://news.ycombinator.com/item?id=10981476">HackerNews Discussion</a>

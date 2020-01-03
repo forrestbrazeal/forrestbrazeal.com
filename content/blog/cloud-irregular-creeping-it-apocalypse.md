@@ -2,6 +2,7 @@
 title = "Cloud Irregular: The Creeping IT Apocalypse"
 date = 2019-01-16T09:27:38-05:00
 description = "I've been saying for awhile now that we're getting close to a crisis point in the IT world. The mid-tier IT worker is in imminent danger of being automated out of existence, and just like with the vanished factory jobs of the last 30 years, nobody wants to admit it's happening until it's too late."
+og_image = "cloud-irregular.png"
 +++
 
 <img class="alignnone size-full wp-image-2812" src="/images/cloud-irregular.png" alt="cloud-irregular" />

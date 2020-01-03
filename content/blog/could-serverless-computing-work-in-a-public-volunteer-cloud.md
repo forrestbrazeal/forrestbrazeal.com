@@ -2,7 +2,7 @@
 title = "Could serverless computing work in a public volunteer cloud?"
 date = 2016-05-26T18:23:17-05:00
 description = ""
-draft = false
+og_image = "forrest.png"
 +++
 
 <h4>Serverless computing</h4>

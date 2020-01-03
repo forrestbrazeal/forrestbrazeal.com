@@ -2,7 +2,7 @@
 title = "On writing and selling science fiction stories"
 date = 2018-11-08T09:27:38-05:00
 description = "I set a crazy goal for myself this year: become an SFWA-eligible professional science fiction writer. The only problem: I'd never sold a science fiction story in my life."
-image = "osprey.png"
+og_image = "forrest.png"
 +++
 
 Each year, I try to set a few personal goals that stretch me in some way.

@@ -3,6 +3,7 @@ title = "AI, automation, and the merry-go-round of the mind"
 date = 2016-06-23T18:21:36-05:00
 description = ""
 draft = false
+og_image = "forrest.png"
 +++
 
 <h3>Is there such a thing as too much automation?</h3>

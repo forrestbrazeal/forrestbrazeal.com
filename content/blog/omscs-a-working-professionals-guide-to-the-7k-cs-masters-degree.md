@@ -2,7 +2,7 @@
 title = "OMSCS: a working professional's guide to the 7K CS masters degree"
 date = 2017-05-08T15:30:48-04:00
 description = ""
-draft = false
+og_image = "forrest.png"
 +++
 
 I'm currently twenty-one credits into a master's degree in computer science at Georgia Tech, one of the world's [top five graduate schools in computing](http://www.wsj.com/articles/global-colleges-ranked-by-subject-1475029803). I also have a family and work full time in the software industry. How is this possible? Meet GaTech's [OMSCS ("Online Master of Science in Computer Science")](http://www.omscs.gatech.edu), the improbable CS master's degree you can do in your spare time for a grand total of less than $7,000.

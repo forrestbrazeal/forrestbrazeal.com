@@ -2,6 +2,7 @@
 title = "Cloud Irregular: IAM Is The Real Cloud Lock-In"
 date = 2019-02-18T09:27:38-05:00
 description = "Forget Lambda and serverless: if you are doing anything at all in AWS besides using it as a fantastically overpriced datacenter, I pretty much guarantee you are deeply locked into IAM."
+og_image = "cloud-irregular.png"
 +++
 
 <img class="alignnone size-full wp-image-2812" src="/images/cloud-irregular.png" alt="cloud-irregular" />
