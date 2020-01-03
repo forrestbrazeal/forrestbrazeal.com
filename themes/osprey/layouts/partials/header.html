@@ -47,8 +47,11 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@{{ .Site.Params.twitter }}">
     <meta name="twitter:creator" content="@{{ .Site.Params.twitter }}">
-    <meta name="twitter:title" content="{{- .Title -}}">
-    <meta name="twitter:image" content="{{- .Params.og_image -}}">
+    {{ if .Params.og_image }}
+      <meta property="twitter:image" content="https://forrestbrazeal.com{{ .Params.og_image | relURL }}"/>
+      {{ else }}
+      <meta property="twitter:image" content="https://forrestbrazeal.com{{ .Site.Params.og_image | relURL }}"/>
+    {{ end }}
   {{ end }}
 
   <meta property="og:type" content="website">

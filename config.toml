@@ -20,6 +20,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     logoSmall = "/images/forrest.png"
     favicon = "/images/forrest.png"
     opengraphImage = "/images/forrest.png"
+    og_image = "/images/forrest.png"
     twitter = "forrestbrazeal"
     linkedin = "forrestbrazeal"
     github = "forrestbrazeal"
