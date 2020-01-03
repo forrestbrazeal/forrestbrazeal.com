@@ -1,6 +1,7 @@
 ---
 title: "Events and Appearances"
 date: 2018-11-02T16:03:54-04:00
+og_image: "forrest.png"
 ---
 
 Feel free to [reach out]({{< ref "#contact" >}}) if you would like Forrest to speak at your conference, user group, or other tech event.
