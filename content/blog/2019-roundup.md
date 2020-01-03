@@ -2,7 +2,8 @@
 title = "2019 Roundup"
 date = 2020-01-03T09:27:38-05:00
 description = "All my cloud and serverless writing from 2019 in one place."
-og_image = "wisdom-cleverness-curve.png"
+og_image = "forrest.png"
+image = "forrest.png"
 +++
 
 Here is a curated list of my writing and speaking links from 2019.
