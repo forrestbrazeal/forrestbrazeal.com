@@ -39,7 +39,7 @@ Another tricky bit of code-wise, cloud-foolish thinking: using languages and fra
 
 I don't take any joy in stoking the eternal flame war between [declarative](https://aws.amazon.com/cloudformation/) and [imperative](https://www.pulumi.com/) "infrastructure as code" tools. I don't like YAML any more than you do. 
 
-But it's been my experience that the "declarative" tools, which let you define cloud infrastructure in general-purpose programming languages, open themselves up to arbitrary complexity based on the whims of their users.
+But it's been my experience that the "imperative" tools, which let you define cloud infrastructure in general-purpose programming languages, open themselves up to arbitrary complexity based on the whims of their users.
 
 Sure, it feels good to write a bunch of for loops and class abstractions to build out a fleet of servers. But it's also easy to introduce logic errors and hard to communicate to other team members what you've created. That's why imperative deploy scripts, over time, tend to become spooky black boxes.
 
