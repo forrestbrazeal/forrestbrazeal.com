@@ -77,7 +77,7 @@ Have a productive and happy 2020. Be cloud-wise.
 ## Links and events
 
 - Another AWS re:Invent has come and gone. I wrote about [new observability services](https://www.trek10.com/blog/preinvent-observability/), [the hidden costs of Lambda provisioned concurrency](https://www.trek10.com/blog/provisioned-lambda-concurrency/), and collaborated on this [deep dive into Lambda Destinations](https://www.trek10.com/blog/lambda-destinations-what-we-learned-the-hard-way/).
-- Jeremy Daly and I sat down with RedMonk's Kelly Fitzgerald to discuss [CI/CD on AWS](https://www.youtube.com/watch?v=Iw_OEdiFNso).
+- Jeremy Daly and I sat down with RedMonk's KellyAnn Fitzpatrick to discuss [CI/CD on AWS](https://www.youtube.com/watch?v=Iw_OEdiFNso).
 - If you're looking for a roundup of all my cloud-related writing from 2019, [look no further](https://forrestbrazeal.com/2020/01/03/2019-roundup/).
 
 ## Just for fun
