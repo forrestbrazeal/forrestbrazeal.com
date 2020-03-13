@@ -1,6 +1,6 @@
 +++
 title = "Tech in the time of COVID-19"
-date = 2020-01-05T09:27:38-05:00
+date = 2020-03-13T09:27:38-05:00
 description = "While all 'inessential' work is shut down, I think a lot of us will figure out that we want to be doing something essential."
 og_image = "cloud-irregular.png"
 +++
