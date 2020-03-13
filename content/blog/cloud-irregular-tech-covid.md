@@ -24,14 +24,14 @@ Here are some other things I think may happen in the tech world as COVID-19 cont
 ## Core systems at elevated risk
 This is super morbid, but man, we are not in a good time to have your business continuity depend on a semi-retired mainframe programmer. The most vulnerable demographic to COVID-19, people over 60, make up a [huge percentage of mainframe specialists](https://www.networkworld.com/article/3161857/as-baby-boomers-retire-the-shortage-of-mainframe-professionals-grows-more-acute.html). And yet COBOL, which recently turned 60 itself, still runs [70% of global transaction processing systems](https://www.zdnet.com/article/cobol-turns-60-why-it-will-outlive-us-all/). As terrible as it is to contemplate, what happens to our core infrastructure (think finances, utilities, etc) if 15-20% of the people who know how it works are suddenly put out of commission by the virus? Be prepared for some weird glitches and disruptions, and maybe make some offline backups of things you care about.
  
-## Distributed work is here to stay
+## Distributed work is here to stay...
 On the bright side, I guarantee that every risk assessment meeting for any IT project will now have someone ask "what happens during the next pandemic?" COVID-19 will sink into our popular consciousness in a way that no event of our lifetimes has -- not even 9/11 -- because it's physically dangerous and economically disruptive like nothing we've faced since World War II. 
  
 I think this will affect the organization of companies even more than their technical decisions. Do you think Amazon is thrilled that their entire brain trust is under soft quarantine in a COVID-19 hot zone? You wouldn't put all your servers in one AZ, so why put all your best people in Seattle? Decentralization is coming, working from home will rise, and I think the days of Seattle and San Francisco as exorbitantly-priced company towns for tech are numbered. Once you see that knowledge work can get done just as well from anywhere (and it absolutely can, believing otherwise is groupthink), the rest is inevitable.
 
 (I saw somebody snarking on Twitter that we shouldn't expect to learn any lessons from coronavirus -- after all, we didn't make any sweeping societal changes as a result of Sandy Hook or the Iraq war. The difference, sadly, is that those disasters didn't hurt powerful people and their money.)
  
-## Further consolidation is coming
+## ...if you have work
 What I said in [the very first Cloud Irregular](https://forrestbrazeal.com/2019/01/16/cloud-irregular-the-creeping-it-apocalypse/) is truer than ever: cloud vendors are reducing the absolute number of people required to deliver technical solutions. And we'll feel the full effects of that in a recession. Headcounts are [already disappearing](https://www.linkedin.com/feed/news/layoffs-start-appearing-4520531/) as stock prices fall and companies tighten their belts. A lot of jobs will be eliminated over the next couple of years: DBAs replaced by cloud database services, integration specialists by integration automation platforms, and lots of custom internal projects by cheaper off-the-shelf solutions. If you sense that your work is repetitive or redundant, the time to skill up -- or become a highly sought-after COBOL programmer! -- is now.
  
 ## More surveillance tech
