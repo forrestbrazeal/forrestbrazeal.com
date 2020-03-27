@@ -4,10 +4,18 @@ date: 2018-11-02T16:03:54-04:00
 og_image: "forrest.png"
 ---
 
-## Technical Writing
-Forrest's latest blog posts on cloud technologies and the emerging serverless space appear at [A Cloud Guru](https://read.acloud.guru/@forrestbrazeal) or [Trek10](https://www.trek10.com/blog/).
+## Books
 
-## Fiction
+"The Read Aloud Cloud" - coming fall 2020 from Wiley Publishing ([preorder now](https://www.amazon.com/Read-Aloud-Cloud-Innocents-Inside/dp/1119677629/ref=sr_1_1?keywords=read+aloud+cloud+innocents+forrest&qid=1585258373&sr=8-1))
+
+*Finally, a book about the cloud that your kid -- or even your CEO -- can understand. Featuring 100 completely insane full-page illustrations of cloud networking, elasticity, reliability, security, and much more. Oh, and it rhymes.* 
+
+*As a graduation gift (call it “Oh the Places You’ll Go” for engineering students), a cubicle conversation starter, or just a delightfully nerdy bedtime story for your kids, “The Read Aloud Cloud” will be the definitive introduction to the technologies that everyone uses and nobody understands. You can even read it silently if you want. But good luck with that.*
+
+## Technical Writing
+Forrest's latest blog posts on cloud technologies and the emerging serverless space appear at [A Cloud Guru](https://read.acloud.guru/@forrestbrazeal).
+
+## Short Fiction
 *Stories currently free to read online are linked.*
 
 ["Perchance to Dream"](https://dailysciencefiction.com/science-fiction/biotech/forrest-brazeal/perchance-to-dream-SF) - *Daily Science Fiction*, 7/12/2018
