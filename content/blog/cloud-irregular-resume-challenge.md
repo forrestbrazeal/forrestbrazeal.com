@@ -11,6 +11,8 @@ og_image = "cloud-irregular.png"
 
 # The cloud resume challenge
 
+Updated June 2020: Visit the [official Cloud Resume Challenge homepage](https://cloudresumechallenge.dev/) for rules, FAQ, and further updates.
+
 We're now at that point in quarantine where even [the jobs people thought were safe](https://www.usatoday.com/story/money/2020/04/23/coronavirus-could-cost-state-government-worker-their-jobs/2998645001/) are starting to dry up. Friends and family are telling me: "I've been thinking about changing careers and going into IT. Maybe doing something in the cloud, like you. Where should I start?"
 
 So I'm making an offer right now, before God and the internet and everybody: send me your resume, and I will do my best to help you get a job in the cloud.
@@ -19,7 +21,7 @@ Yes, there are some conditions. The first two are easy.
 
 The first condition is that I am not personally hiring anybody at the moment, and cannot force anyone else to hire you. But I have a relatively large network of connections, at least forty percent of whom seem to be tech recruiters, and I will make as much noise as possible to get their attention on you and your resume.
 
-Second condition: you must not have prior professional IT experience on your resume (except maybe something super entry-level like helpdesk), and you can't have a college degree in a tech-related major. I want to focus on helping new people break into the industry.
+Second condition: the less prior experience you have, the bigger deal I will make out of you. For example, somebody who completes the Cloud Resume Challenge with no prior IT experience or related degree is going to get personal shoutouts on my Twitter and LinkedIn, personalized code reviews, direct intros to hiring managers, etc.
 
 **If you are fortunate enough to have a job in the cloud already, please share this post with #CloudResumeChallenge -- let's get it in the hands of the people who need it.**
 
