@@ -11,7 +11,7 @@ og_image = "cloud-irregular.png"
 
 # The cloud resume challenge
 
-Updated June 2020: Visit the [official Cloud Resume Challenge homepage](https://cloudresumechallenge.dev/) for rules, FAQ, and further updates.
+Updated June 2020: Visit the [official Cloud Resume Challenge homepage](https://cloudresumechallenge.dev/) or [join the Discord](https://discord.gg/mr63ws) for rules, FAQ, and further updates.
 
 We're now at that point in quarantine where even [the jobs people thought were safe](https://www.usatoday.com/story/money/2020/04/23/coronavirus-could-cost-state-government-worker-their-jobs/2998645001/) are starting to dry up. Friends and family are telling me: "I've been thinking about changing careers and going into IT. Maybe doing something in the cloud, like you. Where should I start?"
 
