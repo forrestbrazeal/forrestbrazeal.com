@@ -13,6 +13,7 @@ Feel free to [reach out]({{< ref "#contact" >}}) if you would like Forrest to sp
 | 2020/11/10       | [CloudTamer.io](https://cloudtamer.io) CloudUnity Day      | Keynote address                 |  |
 | 2020/10/05       | ["Telco in 20" podcast](https://telcodr.com)       | Beware of lift 'n shift                  | [listen](https://www.telcodr.com/podcast/telcos-moving-to-the-public-cloud-beware-of-lift-and-shift/) |
 | 2020/9/17       | [Comcast Cloud Native Revolution](https://www.comcastlabsconnect.com/cloud-native-revolution-2020)        | The Cartoonist's Guide to Cloud Adoption                  |  |
+| 2020/8/07       | SiliconAngle's TheCUBE        | Cloud Native Insights with Forrest Brazeal                  | [read and watch](https://siliconangle.com/2020/08/07/cloud-bard-forrest-brazeal-pinpoints-failure-celebrates-success-cloud-native-evolution/) |
 | 2020/7/21       | "Screaming in the Cloud" podcast with Corey Quinn      | The Cloud Bard Speaks                 | [listen or read](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/the-cloud-bard-speaks-with-forrest-brazeal/) |
 | 2020/7/16       | [OSCON Superstream: Cloud Strategies and Implementation](https://www.oreilly.com/library/view/oscon-open-source/0636920458838/)     | The Cartoonist's Guide to Cloud Adoption                 |  |
 | 2020/7/01       | "Talking Serverless" podcast      | Episode 12                 | [listen](https://www.talkingserverless.io/listen?wix-music-track-id=6547620488019968&wix-music-comp-id=comp-iiypc649) |
