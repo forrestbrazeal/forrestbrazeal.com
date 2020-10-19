@@ -6,14 +6,16 @@ og_image: "forrest.png"
 
 ## Books
 
-"The Read Aloud Cloud" - coming fall 2020 from Wiley Publishing ([preorder now](https://www.amazon.com/Read-Aloud-Cloud-Innocents-Inside/dp/1119677629/ref=sr_1_1?keywords=read+aloud+cloud+innocents+forrest&qid=1585258373&sr=8-1))
+"The Read Aloud Cloud" (Wiley, 2020) - now available wherever extremely bizarre introductions to cloud computing are sold!
+
+[Amazon](https://www.amazon.com/Read-Aloud-Cloud-Innocents-Inside/dp/1119677629/), [B&N](https://www.barnesandnoble.com/w/the-read-aloud-cloud-forrest-brazeal/1136500703), [IndieBound](https://www.indiebound.org/book/9781119677628), [Walmart](https://www.walmart.com/ip/The-Read-Aloud-Cloud-An-Innocent-s-Guide-to-the-Tech-Inside-Paperback/679980711), [Book Depository](https://www.bookdepository.com/The-Read-Aloud-Cloud/9781119677628) (good for international orders)
 
 *Finally, a book about the cloud that your kid -- or even your CEO -- can understand. Featuring 100 completely insane full-page illustrations of cloud networking, elasticity, reliability, security, and much more. Oh, and it rhymes.* 
 
 *As a graduation gift (call it “Oh the Places You’ll Go” for engineering students), a cubicle conversation starter, or just a delightfully nerdy bedtime story for your kids, “The Read Aloud Cloud” will be the definitive introduction to the technologies that everyone uses and nobody understands. You can even read it silently if you want. But good luck with that.*
 
 ## Technical Writing
-Forrest's latest blog posts on cloud technologies and the emerging serverless space appear at [A Cloud Guru](https://read.acloud.guru/@forrestbrazeal).
+Forrest's latest blog posts on cloud technologies and the emerging serverless space appear at [A Cloud Guru](https://read.acloud.guru/@forrestbrazeal) or in the Cloud Irregular newsletter.
 
 ## Short Fiction
 *Stories currently free to read online are linked.*

@@ -6,6 +6,14 @@ og_image: "forrest.png"
 
 Feel free to [reach out]({{< ref "#contact" >}}) if you would like Forrest to speak at your conference, user group, or other tech event.
 
+## 2020
+
+| **Date**       | **Location**                     | **Talk Title**                                                      | **Notes**                                                                                                                                                     |
+|------------|------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2020/11/10       | [CloudTamer.io](https://cloudtamer.io) CloudUnity Day      | Keynote address                 |  |
+| 2020/9/17       | Comcast Cloud Native Revolution        | The Cartoonist's Guide to Cloud Adoption                  |  |
+| 2020/7/16       | OSCON Superstream      | The Cartoonist's Guide to Cloud Adoption                 |  |
+
 ## 2019
 
 | **Date**       | **Location**                     | **Talk Title**                                                      | **Notes**                                                                                                                                                     |
