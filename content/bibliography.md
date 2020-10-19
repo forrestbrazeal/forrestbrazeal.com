@@ -15,7 +15,7 @@ og_image: "forrest.png"
 *As a graduation gift (call it “Oh the Places You’ll Go” for engineering students), a cubicle conversation starter, or just a delightfully nerdy bedtime story for your kids, “The Read Aloud Cloud” will be the definitive introduction to the technologies that everyone uses and nobody understands. You can even read it silently if you want. But good luck with that.*
 
 ## Technical Writing
-Forrest's latest blog posts on cloud technologies and the emerging serverless space appear at [A Cloud Guru](https://read.acloud.guru/@forrestbrazeal) or in the Cloud Irregular newsletter.
+Forrest's latest blog posts on cloud technologies and the emerging serverless space appear at [A Cloud Guru](https://acloudguru.com/blog/author/forrest-brazeal) or in the [Cloud Irregular newsletter](https://cloudirregular.substack.com/).
 
 ## Short Fiction
 *Stories currently free to read online are linked.*
