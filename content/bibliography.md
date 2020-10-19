@@ -10,7 +10,7 @@ og_image: "forrest.png"
 
 [Amazon](https://www.amazon.com/Read-Aloud-Cloud-Innocents-Inside/dp/1119677629/), [B&N](https://www.barnesandnoble.com/w/the-read-aloud-cloud-forrest-brazeal/1136500703), [IndieBound](https://www.indiebound.org/book/9781119677628), [Walmart](https://www.walmart.com/ip/The-Read-Aloud-Cloud-An-Innocent-s-Guide-to-the-Tech-Inside-Paperback/679980711), [Book Depository](https://www.bookdepository.com/The-Read-Aloud-Cloud/9781119677628) (good for international orders)
 
-*Finally, a book about the cloud that your kid -- or even your CEO -- can understand. Featuring 100 completely insane full-page illustrations of cloud networking, elasticity, reliability, security, and much more. Oh, and it rhymes.* 
+*Finally, an explanation of the cloud that even your non-technical friends and family can understand. Featuring 165 completely insane full-page illustrations of cloud networking, elasticity, reliability, security, and much more. Oh, and it rhymes.* 
 
 *As a graduation gift (call it “Oh the Places You’ll Go” for engineering students), a cubicle conversation starter, or just a delightfully nerdy bedtime story for your kids, “The Read Aloud Cloud” will be the definitive introduction to the technologies that everyone uses and nobody understands. You can even read it silently if you want. But good luck with that.*
 
