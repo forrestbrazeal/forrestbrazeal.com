@@ -1,0 +1,263 @@
+/* ===========================================================
+   forrestbrazeal.com — author site for the novel PARADOX INC.
+   Plain CSS, no build step.
+   =========================================================== */
+
+:root {
+  --bg:        #f5f4f1;   /* eggshell white */
+  --bg-tint:   #eaf3fb;   /* soft sky wash (from the cover) */
+  --surface:   #ffffff;
+  --ink:       #191b1f;
+  --ink-soft:  #3d4045;
+  --muted:     #74777e;
+  --line:      #e4e4df;
+  --blue:      #2a89c4;   /* cover sky blue */
+  --blue-dk:   #1b6c9d;
+  --pink:      #ec6f8d;   /* flamingo */
+  --max:       1120px;
+  --radius:    14px;
+  --shadow:    0 1px 2px rgba(25,27,31,.04), 0 10px 30px rgba(25,27,31,.07);
+  --shadow-lg: 0 2px 8px rgba(25,27,31,.06), 0 24px 60px rgba(25,27,31,.14);
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 84px; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Montserrat", -apple-system, "Segoe UI", sans-serif;
+  font-weight: 700;
+  line-height: 1.08;
+  letter-spacing: -0.015em;
+  color: var(--ink);
+  margin: 0 0 .4em;
+}
+
+a { color: var(--blue-dk); text-decoration: none; }
+a:hover { color: var(--blue); }
+p { margin: 0 0 1em; }
+img { max-width: 100%; display: block; }
+
+.wrap { width: 100%; max-width: var(--max); margin: 0 auto; padding: 0 24px; }
+
+section { padding: 88px 0; border-top: 1px solid var(--line); }
+
+.eyebrow {
+  font-family: "Montserrat", sans-serif;
+  font-size: .74rem; font-weight: 700;
+  letter-spacing: .18em; text-transform: uppercase;
+  color: var(--blue); margin: 0 0 1rem;
+}
+.section-title { font-size: clamp(1.9rem, 4.5vw, 2.9rem); margin-bottom: .5em; }
+.lead { font-size: 1.16rem; color: var(--ink-soft); max-width: 62ch; }
+
+/* -------------------- Buttons -------------------- */
+.btn {
+  display: inline-flex; align-items: center; gap: .5em;
+  font-family: "Montserrat", sans-serif; font-weight: 600; font-size: .96rem;
+  padding: 13px 26px; border-radius: 999px; border: 1.5px solid transparent;
+  cursor: pointer; transition: transform .12s ease, background .15s ease, box-shadow .15s ease, border-color .15s ease;
+}
+.btn:hover { transform: translateY(-1px); }
+.btn-primary { background: var(--ink); color: #fff; }
+.btn-primary:hover { background: var(--blue-dk); color: #fff; box-shadow: var(--shadow); }
+.btn-blue { background: var(--blue); color: #fff; }
+.btn-blue:hover { background: var(--blue-dk); color:#fff; box-shadow: var(--shadow); }
+.btn-ghost { background: transparent; color: var(--ink); border-color: var(--line); }
+.btn-ghost:hover { border-color: var(--blue); color: var(--blue); background: #fff; }
+.btn-sm { padding: 9px 18px; font-size: .86rem; }
+
+/* -------------------- Nav -------------------- */
+.nav {
+  position: sticky; top: 0; z-index: 50;
+  background: rgba(245,244,241,.85);
+  backdrop-filter: saturate(150%) blur(10px);
+  -webkit-backdrop-filter: saturate(150%) blur(10px);
+  border-bottom: 1px solid var(--line);
+}
+.nav-inner { display: flex; align-items: center; justify-content: space-between; height: 64px; }
+.brand { font-family: "Montserrat", sans-serif; font-weight: 800; font-size: 1.1rem; color: var(--ink); letter-spacing: -.01em; }
+.brand:hover { color: var(--ink); }
+.nav-links { display: flex; align-items: center; gap: 26px; }
+.nav-links a { color: var(--ink-soft); font-size: .92rem; font-weight: 600; font-family: "Montserrat", sans-serif; }
+.nav-links a:hover { color: var(--blue); }
+.nav-links a.nav-cta { padding: 8px 18px; border-radius: 999px; background: var(--blue); color: #fff; }
+.nav-links a.nav-cta:hover { background: var(--blue-dk); color: #fff; }
+
+/* -------------------- Hero -------------------- */
+.hero {
+  position: relative; overflow: hidden;
+  padding: clamp(56px, 8vw, 96px) 0 clamp(64px, 8vw, 100px);
+  background:
+    radial-gradient(110% 80% at 88% 8%, var(--bg-tint) 0%, rgba(234,243,251,0) 55%);
+}
+.hero-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 56px; align-items: center; }
+.hero h1 { font-size: clamp(3rem, 8vw, 5rem); font-weight: 800; line-height: .98; margin-bottom: .1em; }
+.hero .tagline {
+  font-family: "Lato", serif; font-size: clamp(1.15rem, 2.4vw, 1.45rem);
+  color: var(--ink-soft); font-weight: 400; margin: 0 0 1.3em; max-width: 34ch;
+}
+.hero .tagline b { color: var(--ink); font-weight: 700; }
+.hero .meta-line { font-family: "Montserrat", sans-serif; font-weight: 600; font-size: .82rem;
+  letter-spacing: .12em; text-transform: uppercase; color: var(--blue); margin-bottom: 1.3rem; }
+.hero-cta { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 1.7em; }
+
+.blurb {
+  border-left: 3px solid var(--pink); padding: 4px 0 4px 20px;
+  margin: 0; max-width: 48ch;
+}
+.blurb p { font-size: 1.05rem; color: var(--ink); font-style: italic; margin: 0 0 .55em; }
+.blurb cite { font-style: normal; font-weight: 600; font-family: "Montserrat", sans-serif;
+  font-size: .9rem; color: var(--muted); }
+.blurb cite b { color: var(--ink); }
+
+/* retailer chips */
+.retailers { display: flex; flex-wrap: wrap; gap: 8px 18px; margin-top: 1.4em; align-items: center; }
+.retailers span { font-size: .8rem; color: var(--muted); font-weight: 600; letter-spacing: .05em; text-transform: uppercase; }
+.retailers a { font-family: "Montserrat", sans-serif; font-weight: 600; font-size: .92rem; }
+
+/* -------------------- 3D book -------------------- */
+.book-scene { perspective: 2200px; display: flex; justify-content: center; }
+.book {
+  --bw: 300px; --bh: 456px; --bt: 44px;   /* width / height / thickness */
+  position: relative; width: var(--bw); height: var(--bh);
+  transform-style: preserve-3d;
+  transform: rotateY(-28deg) rotateX(4deg);
+  transition: transform .7s cubic-bezier(.2,.7,.2,1);
+  animation: bookIn 1.1s cubic-bezier(.2,.7,.2,1) both;
+}
+.book:hover { transform: rotateY(-14deg) rotateX(2deg); }
+@keyframes bookIn { from { transform: rotateY(-60deg) rotateX(6deg); opacity: 0; } to { opacity: 1; } }
+
+.book__face {
+  position: absolute; top: 0; left: 0; width: var(--bw); height: var(--bh);
+  backface-visibility: hidden; -webkit-backface-visibility: hidden;
+}
+.book__cover {                       /* front */
+  transform: translateZ(calc(var(--bt) / 2));
+  overflow: hidden; border-radius: 2px 5px 5px 2px;
+  box-shadow: 0 0 3px rgba(0,0,0,.12);
+}
+.book__cover img { width: 100%; height: 100%; object-fit: cover; }
+.book__back {                        /* back cover — faces away */
+  transform: rotateY(180deg) translateZ(calc(var(--bt) / 2));
+  background: #10304a; border-radius: 2px 5px 5px 2px;
+}
+.book__spine {                       /* left edge (binding) */
+  width: var(--bt); left: 0;
+  transform-origin: left center;
+  transform: rotateY(-90deg);
+  background: linear-gradient(90deg, #0d2c44, #17567f);
+}
+.book__pages {                       /* right fore-edge (pages) */
+  width: var(--bt); left: auto; right: 0; height: calc(var(--bh) - 8px); top: 4px;
+  transform-origin: right center;
+  transform: rotateY(90deg);
+  background: repeating-linear-gradient(90deg, #cfcbbb 0 1px, #f7f4ea 1px 3px);
+}
+.book-shadow {
+  width: 260px; height: 34px; margin: 24px auto 0;
+  background: radial-gradient(ellipse at center, rgba(25,27,31,.28), rgba(25,27,31,0) 70%);
+  filter: blur(3px);
+}
+
+/* -------------------- The Book (synopsis) -------------------- */
+.book-detail { display: grid; grid-template-columns: 1fr 1fr; gap: 56px; align-items: start; }
+.book-detail .synopsis p { color: var(--ink-soft); }
+.book-detail .synopsis p.first { font-size: 1.22rem; color: var(--ink); font-family: "Montserrat", sans-serif; font-weight: 500; line-height: 1.35; }
+.fact-card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 30px 32px; box-shadow: var(--shadow); }
+.fact-card h3 { font-size: 1.15rem; }
+.fact-row { display: flex; justify-content: space-between; gap: 16px; padding: 11px 0; border-bottom: 1px solid var(--line); font-size: .96rem; }
+.fact-row:last-of-type { border-bottom: none; }
+.fact-row .k { color: var(--muted); font-weight: 600; font-family: "Montserrat", sans-serif; font-size: .82rem; letter-spacing: .04em; text-transform: uppercase; }
+.fact-row .v { color: var(--ink); text-align: right; font-weight: 600; }
+.fact-card .btn { width: 100%; justify-content: center; margin-top: 20px; }
+.fact-card .retailers { justify-content: center; margin-top: 14px; }
+
+/* -------------------- News -------------------- */
+.news-list { display: grid; gap: 20px; margin-top: 36px; }
+.news-item {
+  background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
+  padding: 26px 30px; box-shadow: var(--shadow); display: grid;
+  grid-template-columns: 140px 1fr; gap: 26px; align-items: baseline;
+}
+.news-item time { font-family: "Montserrat", sans-serif; font-weight: 600; font-size: .82rem;
+  letter-spacing: .05em; text-transform: uppercase; color: var(--blue); }
+.news-item h3 { font-size: 1.3rem; margin-bottom: .3em; }
+.news-item p { color: var(--ink-soft); margin: 0; font-size: 1rem; }
+
+/* -------------------- Speaking -------------------- */
+.speak-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: center; }
+.speak-venues { list-style: none; padding: 0; margin: 22px 0 0; display: flex; flex-wrap: wrap; gap: 10px; }
+.speak-venues li { font-family: "Montserrat", sans-serif; font-weight: 600; font-size: .84rem;
+  padding: 8px 15px; background: var(--surface); border: 1px solid var(--line); border-radius: 999px; color: var(--ink-soft); }
+.speak-photo { margin: 0; border-radius: var(--radius); overflow: hidden; border: 1px solid var(--line); box-shadow: var(--shadow); aspect-ratio: 3/2; }
+.speak-photo img { width: 100%; height: 100%; object-fit: cover; }
+
+/* -------------------- About -------------------- */
+.about-grid { display: grid; grid-template-columns: 260px 1fr; gap: 52px; align-items: start; }
+.about-photo { border-radius: var(--radius); overflow: hidden; border: 1px solid var(--line); box-shadow: var(--shadow); }
+.about-photo img { width: 100%; height: auto; display: block; }
+.about-grid p:first-of-type { font-size: 1.18rem; color: var(--ink); }
+.about-grid p { color: var(--ink-soft); }
+
+/* -------------------- Newsletter -------------------- */
+.newsletter { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
+  padding: 44px; box-shadow: var(--shadow); display: grid; grid-template-columns: 1fr auto; gap: 30px; align-items: center; }
+.newsletter h3 { font-size: 1.7rem; }
+.newsletter p { color: var(--ink-soft); margin: 0; max-width: 54ch; }
+.newsletter .actions { display: flex; gap: 12px; flex-wrap: wrap; }
+
+/* -------------------- Contact form -------------------- */
+.contact-grid { display: grid; grid-template-columns: .8fr 1.2fr; gap: 52px; align-items: start; }
+.form { display: grid; gap: 16px; }
+.form .row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.form label { font-family: "Montserrat", sans-serif; font-weight: 600; font-size: .8rem;
+  letter-spacing: .04em; text-transform: uppercase; color: var(--muted); display: block; margin-bottom: 6px; }
+.form input, .form select, .form textarea {
+  width: 100%; font-family: "Lato", sans-serif; font-size: 1rem; color: var(--ink);
+  background: var(--surface); border: 1.5px solid var(--line); border-radius: 10px; padding: 12px 14px;
+  transition: border-color .15s ease, box-shadow .15s ease;
+}
+.form input:focus, .form select:focus, .form textarea:focus {
+  outline: none; border-color: var(--blue); box-shadow: 0 0 0 3px rgba(42,137,196,.15);
+}
+.form textarea { resize: vertical; min-height: 130px; }
+.form .btn { justify-self: start; }
+.hp { position: absolute; left: -9999px; }
+
+/* -------------------- Footer -------------------- */
+.footer { border-top: 1px solid var(--line); background: #eef0ec; padding: 56px 0 44px; }
+.footer-inner { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 24px; align-items: center; }
+.footer h3 { font-size: 1.35rem; margin-bottom: .1em; }
+.footer p { color: var(--muted); margin: 0; font-size: .95rem; }
+.social { display: flex; gap: 22px; flex-wrap: wrap; }
+.social a { color: var(--ink-soft); font-weight: 600; font-size: .92rem; font-family: "Montserrat", sans-serif; }
+.social a:hover { color: var(--blue); }
+.copyright { width: 100%; margin-top: 10px; color: var(--muted); font-size: .84rem; }
+
+/* -------------------- Responsive -------------------- */
+@media (max-width: 900px) {
+  .hero-grid { grid-template-columns: 1fr; gap: 40px; }
+  .hero-visual { grid-row: 1; }
+  .book-detail, .speak-grid, .about-grid, .newsletter, .contact-grid { grid-template-columns: 1fr; gap: 32px; }
+  .newsletter { text-align: left; }
+}
+@media (max-width: 620px) {
+  body { font-size: 17px; }
+  section { padding: 60px 0; }
+  .nav-links { gap: 14px; }
+  .nav-links a:not(.nav-cta) { display: none; }
+  .news-item { grid-template-columns: 1fr; gap: 8px; }
+  .form .row { grid-template-columns: 1fr; }
+}
