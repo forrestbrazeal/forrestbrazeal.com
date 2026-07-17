@@ -153,15 +153,13 @@ section { padding: 88px 0; border-top: 1px solid var(--line); }
   transform: rotateY(180deg) translateZ(calc(var(--bt) / 2));
   background: #10304a; border-radius: 2px 5px 5px 2px;
 }
-.book__spine {                       /* left edge (binding) */
-  width: var(--bt); left: 0;
-  transform-origin: left center;
-  transform: rotateY(-90deg);
+.book__spine {                       /* left edge (binding) — centered across thickness */
+  width: var(--bt); height: var(--bh); top: 0; left: calc(var(--bt) / -2);
+  transform: rotateY(90deg);
   background: linear-gradient(90deg, #0d2c44, #17567f);
 }
-.book__pages {                       /* right fore-edge (pages) */
-  width: var(--bt); left: auto; right: 0; height: calc(var(--bh) - 8px); top: 4px;
-  transform-origin: right center;
+.book__pages {                       /* right fore-edge (pages) — centered across thickness */
+  width: var(--bt); height: var(--bh); top: 0; left: auto; right: calc(var(--bt) / -2);
   transform: rotateY(90deg);
   background: repeating-linear-gradient(90deg, #cfcbbb 0 1px, #f7f4ea 1px 3px);
 }
@@ -260,4 +258,7 @@ section { padding: 88px 0; border-top: 1px solid var(--line); }
   .nav-links a:not(.nav-cta) { display: none; }
   .news-item { grid-template-columns: 1fr; gap: 8px; }
   .form .row { grid-template-columns: 1fr; }
+  /* Stack CTA buttons full-width so they align cleanly instead of wrapping ragged */
+  .hero-cta, .newsletter .actions { flex-direction: column; align-items: stretch; }
+  .hero-cta .btn, .newsletter .actions .btn { width: 100%; }
 }
